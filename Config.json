@@ -1,8 +1,11 @@
 {
-  "rules": [
-    { "type": "prefix", "value": "CSRT" },
-    { "type": "prefix", "value": "MOBECO" },
-    { "type": "exact", "value": "ARLHY_ADMIN" },
-    { "type": "exact", "value": "KEVIN_TEST" }
-  ]
+    "prefix": [
+        "CSRT",
+        "MOBECO",
+        "ABC"
+    ],
+    "exact": [
+        "ARLHY_ADMIN",
+        "KEVIN_TEST"
+    ]
 }
