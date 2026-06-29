@@ -5,12 +5,14 @@
         
         <Prefix>MOBECO</Prefix>
         <Prefix>ABC</Prefix>
+        <Prefix>CSRT</Prefix>
+        
     </PrefixUsers>
 
     <ExactUsers>
         <User>ARLHY_ADMIN</User>
         <User>KEVIN_TEST</User>
-        <User>CSRT-ArlhyHM</User>
+        
     </ExactUsers>
 
 </License>
