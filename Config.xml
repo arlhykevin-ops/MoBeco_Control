@@ -10,7 +10,7 @@
     <ExactUsers>
         <User>ARLHY_ADMIN</User>
         <User>KEVIN_TEST</User>
-        <User>CSRT_ArlhyHM</User>
+        <User>CSRT-ArlhyHM</User>
     </ExactUsers>
 
 </License>
