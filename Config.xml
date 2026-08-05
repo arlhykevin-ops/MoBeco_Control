@@ -32,7 +32,7 @@
         <Prefix>CLA</Prefix>
         <Prefix>CML</Prefix>
         <Prefix>CPS</Prefix>
-        <Prefix>CR&</Prefix>
+        <Prefix>CR&amp</Prefix>
         <Prefix>CSP</Prefix>
         <Prefix>DIG</Prefix>
         <Prefix>DSR</Prefix>
@@ -47,7 +47,7 @@
         <Prefix>IPS</Prefix>
         <Prefix>IYT</Prefix>
         <Prefix>LCY</Prefix>
-        <Prefix>M&C</Prefix>
+        <Prefix>M&ampC</Prefix>
         <Prefix>MAS</Prefix>
         <Prefix>MBS</Prefix>
         <Prefix>MDP</Prefix>
