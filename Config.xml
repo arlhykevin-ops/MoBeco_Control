@@ -6,6 +6,63 @@
         <Prefix>MOBECO</Prefix>
         <Prefix>ABC</Prefix>
         <Prefix>CSRT</Prefix>
+        <Prefix>ZHI</Prefix>
+        <Prefix>ADC</Prefix>
+        <Prefix>AGA</Prefix>
+        <Prefix>ASA</Prefix>
+        <Prefix>AYA</Prefix>
+        <Prefix>AYM</Prefix>
+        <Prefix>BIC</Prefix>
+        <Prefix>BRH</Prefix>
+        <Prefix>BSA</Prefix>
+        <Prefix>CAC</Prefix>
+        <Prefix>CBS</Prefix>
+        <Prefix>CCG</Prefix>
+        <Prefix>CDM</Prefix>
+        <Prefix>CEB</Prefix>
+        <Prefix>CEC</Prefix>
+        <Prefix>CEL</Prefix>
+        <Prefix>CEM</Prefix>
+        <Prefix>CEN</Prefix>
+        <Prefix>CHC</Prefix>
+        <Prefix>CIK</Prefix>
+        <Prefix>CIP</Prefix>
+        <Prefix>CIS</Prefix>
+        <Prefix>CJC</Prefix>
+        <Prefix>CLA</Prefix>
+        <Prefix>CML</Prefix>
+        <Prefix>CPS</Prefix>
+        <Prefix>CR&</Prefix>
+        <Prefix>CSP</Prefix>
+        <Prefix>DIG</Prefix>
+        <Prefix>DSR</Prefix>
+        <Prefix>EDP</Prefix>
+        <Prefix>EIS</Prefix>
+        <Prefix>EQI</Prefix>
+        <Prefix>ESA</Prefix>
+        <Prefix>FCG</Prefix>
+        <Prefix>GCD</Prefix>
+        <Prefix>GGE</Prefix>
+        <Prefix>GSS</Prefix>
+        <Prefix>IPS</Prefix>
+        <Prefix>IYT</Prefix>
+        <Prefix>LCY</Prefix>
+        <Prefix>M&C</Prefix>
+        <Prefix>MAS</Prefix>
+        <Prefix>MBS</Prefix>
+        <Prefix>MDP</Prefix>
+        <Prefix>MIS</Prefix>
+        <Prefix>OSS</Prefix>
+        <Prefix>PPS</Prefix>
+        <Prefix>PSA</Prefix>
+        <Prefix>PSP</Prefix>
+        <Prefix>STB</Prefix>
+        <Prefix>STC</Prefix>
+        <Prefix>STS</Prefix>
+        <Prefix>TCI</Prefix>
+        <Prefix>TCS</Prefix>
+        <Prefix>VSA</Prefix>
+        <Prefix>ZHI</Prefix>
         
     </PrefixUsers>
 
